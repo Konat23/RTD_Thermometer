@@ -1,0 +1,3 @@
+[submodule "pyplotter"]
+	path = pyplotter
+	url = https://github.com/sebastian-ga/pyplotter
