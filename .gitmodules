@@ -1,3 +1,6 @@
 [submodule "pyplotter"]
 	path = pyplotter
 	url = https://github.com/sebastian-ga/pyplotter
+[submodule "pcb/footprints/KiCad-RP-Pico"]
+	path = pcb/footprints/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico
